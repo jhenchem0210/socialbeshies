@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<!-- meta tags-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<title>Profile 3</title>
+	<link rel="stylesheet" type="text/css" href="../CSS/styleprofile.css"/>
+	<script src="../javascript/profilescript.js"></script>
+
+</head>
+<body>
+
+	<div class="header">
+		<div class="wrapper">
+			<img src="../images/logo1.png" width=160 height=70 class="logoletter"/>
+			
+		</div>
+	</div>
+
+	<div class="main">
+		<div class="wrapper">
+
+		<div class="signup">
+			<!-- <h1>Join Beshies today</h1> -->
+			<img src="../images/profile/profile3.png"/>
+			<form action='home'>
+
+				<table id="signuptable">
+					
+					<tr>
+						<td style="padding-bottom:0px;"><img src="../images/profile/upload.png" id="load1" style="width:220px; height:230px;"/>
+						</td>
+
+					</tr>		
+
+					<tr>
+						<td align="middle"> <input type="button" class="uploadButton" id="browser" value="Browse" />
+				 <input type="file" id="myFile" name="pic" accept="image/*" onchange="loadFile(event)" onmouseover="onbuttoncolor()" onmouseout="outbuttoncolor()"></td>
+					</tr>
+
+
+					<tr id="nextbut">
+						<td><input id="nextbttn" type="submit" value="Let's Start" /></td>
+					</tr>
+
+				</table>
+			</form>
+			</div>
+		</div>
+	</div>
+
+	<div class="footer">
+		<div class="wrapper">
+			<div class="foot">
+
+				<ul>
+					<li><a href="">About</a></li>
+					<li><a href="">Contact</a></li>
+					<li><a href="">Privacy and Policy</a></li>
+					<li><a href="">Help</a></li>
+				</ul>
+
+				<p>Copyright © www.socialbeshies.online 2023 All Rights Reserved.</p>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
