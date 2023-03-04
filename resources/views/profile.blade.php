@@ -114,7 +114,7 @@
 					<p id="sidename"> Arjhen Armonio Sonio Pajalla Bravo</p>
 					<p id="nosociety">31</p>
 					<p id="societyname"><a href='society'>Society</a></p>
-					<p id="logout"><a href='logout'>Log Out</a></p>
+					<p id='dashboard'><a href='logout'>Log Out</a></p>
 				</div>
 				<!-- End of sidebar left profile -->
  				
