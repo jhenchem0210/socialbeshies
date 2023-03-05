@@ -31,13 +31,13 @@
 			<div class="icon-bar">
 			 <ul>
 			 	<!-- home -->
-			 	<li><a href="home.php" onmouseover="headerchange(1);" onmouseout="headerorigin(1);"><img src="../images/login/home.png" id="GPA-home"><p id="p1">Home</p></a></li>
+			 	<li><a href='home' onmouseover="headerchange(1);" onmouseout="headerorigin(1);"><img src="../images/login/home.png" id="GPA-home"><p id="p1">Home</p></a></li>
 			 	<!-- profile -->
-			 	<li> <a href="profile.php" onmouseover="headerchange(2);" onmouseout="headerorigin(2);"><img src="../images/login/profile.png" id="GPA-profile"><p id="p2">Profile</p></a> </li>
+			 	<li> <a href='profile' onmouseover="headerchange(2);" onmouseout="headerorigin(2);"><img src="../images/login/profile.png" id="GPA-profile"><p id="p2">Profile</p></a> </li>
 			 	<!-- society -->
-			 	<li><a href="society.php" onmouseover="headerchange(3);" onmouseout="headerorigin(3);"><img src="../images/login/society.png" id="GPA-society"><p id="p3">Society</p></a></li>
+			 	<li><a href='society' onmouseover="headerchange(3);" onmouseout="headerorigin(3);"><img src="../images/login/society.png" id="GPA-society"><p id="p3">Society</p></a></li>
 			 	<!-- message -->
-			 	<li style="border-bottom: 6px solid white;"> <a href="messages.html" onmouseover="headerchange(4);" onmouseout="headerorigin(4);"><img src="../images/login/message.png" id="GPA-message"><p id="p4">Messages</p></a></li>
+			 	<li style="border-bottom: 6px solid white;"> <a href='messages' onmouseover="headerchange(4);" onmouseout="headerorigin(4);"><img src="../images/login/message.png" id="GPA-message"><p id="p4">Messages</p></a></li>
 			 	<!-- notification -->
 			 	<li><a href="#" onmouseover="headerchange(5);" onmouseout="headerorigin(5);"><img src="../images/login/notification.png" id="GPA-notification"><p id="p5">Notifications</p></a>
 			 	<div id="notify">
