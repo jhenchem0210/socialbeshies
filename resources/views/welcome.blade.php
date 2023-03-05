@@ -32,12 +32,12 @@
       <div class="foot sm:fixed sm:bottom-0 sm:right-2 p-6 m-2 text-right">
 
 <ul class="flex">
-    <li><a href="">About-</a></li>
-    <li><a href="">Contact-</a></li>
-    <li><a href="">Privacy and Policy-</a></li>
-    <li><a href="">Help</a></li>
+    <li><a href='index2'>About-</a></li>
+    <li><a href='login123'>Contact-</a></li>
+    <li><a href='policy'>Privacy and Policy-</a></li>
+    <li><a href='terms'>Help</a></li>
 </ul>
-<p>Copyright © www.socialbeshies.online 
+<p>Copyright © www.socialbeshies.fun 
     <br>2023 All Rights Reserved.</p>
 
 </div>

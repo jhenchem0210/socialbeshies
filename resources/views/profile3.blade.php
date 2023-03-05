@@ -56,13 +56,13 @@
 			<div class="foot">
 
 				<ul>
-					<li><a href="">About</a></li>
-					<li><a href="">Contact</a></li>
-					<li><a href="">Privacy and Policy</a></li>
-					<li><a href="">Help</a></li>
+				<li><a href='index2'>About-</a></li>
+    			<li><a href='login123'>Contact-</a></li>
+    			<li><a href='policy'>Privacy and Policy-</a></li>
+    			<li><a href='terms'>Help</a></li>
 				</ul>
 
-				<p>Copyright © www.socialbeshies.online 2023 All Rights Reserved.</p>
+				<p>Copyright © www.socialbeshies.fun 2023 All Rights Reserved.</p>
 			</div>
 		</div>
 	</div>

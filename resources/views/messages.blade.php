@@ -11,7 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="../CSS/message.css">
 	<script src="../javascript/header.js"></script>
 	<script src="../javascript/message.js"></script>
-	<!-- Ending of CSS and JavaScrit -->
+	<!-- Ending of CSS and JavaScript -->
 </head>
 <body onload="loadcontact()">
 	<!-- Header section -->
@@ -73,11 +73,11 @@
 					<p id="sidename"> Arjhen Armonio Sonio Pajalla Bravo</p>
 					<p id="ssn"> Philippine Institute of Science and Techonology</p>
 					<p id="country">Philippines</p>
-					<a href="profile.html" id="viewall">View All</a>
+					<a href='profile' id="viewall">View All</a>
 					<hr>
 					<p id="nosociety">31</p>
-					<p id="societyname"><a href="society.html">Society</a></p>
-					<p id="logout"><a href="../index.php">Log Out</a></p>
+					<p id="societyname"><a href='society'>Society</a></p>
+					<p id="logout"><a href='dashboard'>Log Out</a></p>
 				</div>
 				<!-- End of sidebar left -->
 			</div>
@@ -219,13 +219,13 @@
 				<div class="foot">
 
 					<ul>
-						<li><a href="">About</a></li>
-						<li><a href="">Contact</a></li>
-						<li><a href="">Privacy and Policy</a></li>
-						<li><a href="">Help</a></li>
+					<li><a href='index2'>About-</a></li>
+    				<li><a href='login123'>Contact-</a></li>
+    				<li><a href='policy'>Privacy and Policy-</a></li>
+    				<li><a href='terms'>Help</a></li>
 					</ul>
 					<img src="../images/logo1.png" width=120 height=45 class="logoletter"/>
-					<p>Copyright © www.socialbeshies.online 
+					<p>Copyright © www.socialbeshies.fun 
 						<br>2023 All Rights Reserved.</p>
 				</div>
 				</div>
