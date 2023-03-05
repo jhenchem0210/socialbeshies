@@ -1,6 +1,6 @@
 <x-app-layout>
     <x-slot name="header">
-    <a href='home'><img src="../images/logo1.png" width=120 height=45 class="logoletter"/></a>
+    
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
             {{ __('Conversation') }}           
         </h2>

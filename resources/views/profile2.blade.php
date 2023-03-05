@@ -21,7 +21,7 @@
 		<div class="wrapper">
 
 		<div class="signup">
-			<!-- <h1>Join GPA today</h1> -->
+			<!-- <h1>Join Beshies today</h1> -->
 			<img src="../images/profile/profile2.png"/>
 			<form action='profile3'>
 				<table id="signuptable">

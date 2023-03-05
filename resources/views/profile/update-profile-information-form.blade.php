@@ -4,7 +4,7 @@
     </x-slot>
 
     <x-slot name="description">
-        {{ __('Update your account\'s profile information and email address.') }}
+        {{ __('Update your account\'s profile information.') }}
     </x-slot>
 
     <x-slot name="form">
@@ -92,4 +92,24 @@
             {{ __('Save') }}
         </x-button>
     </x-slot>
+
+    <x-slot name="actions">
+       
+        <x-button> <a href='/profile1'>
+        {{ __('Profile 1') }} </a>
+        </x-button>
+
+        <x-button> <a href='/profile2'>
+        {{ __('Profile 2') }} </a>
+        </x-button>
+
+        <x-button> <a href='/profile3'>
+        {{ __('Profile 3') }} </a>
+        </x-button>
+
+
+    </x-slot>
+
+
+
 </x-form-section>
