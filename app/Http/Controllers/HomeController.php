@@ -38,5 +38,21 @@ class HomeController extends Controller
     public function dashboard () {
         return view ('dashboard');
     }
+
+    public function about () {
+        return view ('about');
+    }
+
+    public function contact () {
+        return view ('contact');
+    }
+
+    public function policy () {
+        return view ('policy');
+    }
+
+    public function help () {
+        return view ('terms');
+    }
     
 }

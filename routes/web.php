@@ -31,6 +31,14 @@ Route::get('/profile2', [HomeController::class, 'profile2']);
 
 Route::get('/profile3', [HomeController::class, 'profile3']);
 
+Route::get('/about', [HomeController::class, 'about']);
+
+Route::get('/contact', [HomeController::class, 'contact']);
+
+Route::get('/policy', [HomeController::class, 'policy']);
+
+Route::get('/help', [HomeController::class, 'terms']);
+
 
 
 Route::middleware([
