@@ -156,10 +156,10 @@
 				<div class="foot">
 
 					<ul>
-					<li><a href='index2'>About-</a></li>
-    				<li><a href='login123'>Contact-</a></li>
-    				<li><a href='policy'>Privacy and Policy-</a></li>
-    				<li><a href='terms'>Help</a></li>
+					<li><a href='/about'>About</a></li>
+    				<li><a href='/contact'>Contact</a></li>
+    				<li><a href='/policy'>Privacy and Policy</a></li>
+    				<li><a href='/terms'>Help</a></li>
 					</ul>
 					<img src="../images/logo1.png" width=120 height=45 class="logoletter"/>
 					<p>Copyright © www.socialbeshies.fun 
