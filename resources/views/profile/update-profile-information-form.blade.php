@@ -4,7 +4,19 @@
     </x-slot>
 
     <x-slot name="description">
-        {{ __('Update your account\'s profile information and email address.') }}
+        {{ __('Update your account\'s profile information.') }}
+        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight"> 
+        <x-nav-link href="{{ url('/profile1') }}" :active="request()->routeIs('profile1')">
+            {{ __('Profile 1') }}
+        </h2></x-nav-link>
+        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
+            <x-nav-link href="{{ url('/profile2') }}" :active="request()->routeIs('profile2')">
+            {{ __('Profile 2') }}
+        </h2></x-nav-link>
+        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight"> 
+        <x-nav-link href="{{ url('/profile3') }}" :active="request()->routeIs('profile3')">
+            {{ __('Profile 3') }}
+        </h2></x-nav-link>
     </x-slot>
 
     <x-slot name="form">
