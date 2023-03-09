@@ -31,14 +31,14 @@ Route::get('/profile2', [HomeController::class, 'profile2']);
 
 Route::get('/profile3', [HomeController::class, 'profile3']);
 
-Route::get('/about', [HomeController::class, 'about']);
+Route::get('/page/{page}', function ($page){
 
-Route::get('/contact', [HomeController::class, 'contact']);
-
-Route::get('/policy', [HomeController::class, 'policy']);
-
-Route::get('/help', [HomeController::class, 'terms']);
-
+    if  (view()->exists('pages.'.$page)) {
+        return view('pages.'.$page);
+    }else{
+        abort(404);
+    }
+});
 
 
 Route::middleware([
@@ -51,7 +51,7 @@ Route::middleware([
     })->name('dashboard');
 
     Route::resource('/conversations', ConversationController::class)
-    ->only(['store', 'show']);
+    ->only(['index', 'store', 'show']);
 });
 
 

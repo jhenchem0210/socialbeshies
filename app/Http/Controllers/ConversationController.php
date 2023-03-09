@@ -35,7 +35,7 @@ class ConversationController extends Controller
         ]);
         $validated['user_id'] = auth()->user()->id;
         $conversation = Conversation::create($validated);
-        return redirect()->route('dashboard')->with('alert-success', 'Conversation created successfully');
+        return redirect()->route('conversations.index')->with('alert-success', 'Conversation created successfully');
     }
 
     /**
@@ -43,7 +43,7 @@ class ConversationController extends Controller
      */
     public function show(Conversation $conversation)
     {
-        //
+        return view('conversations.show', compact('conversation'));
     }
 
     /**
