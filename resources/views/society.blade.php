@@ -156,13 +156,13 @@
 				<div class="foot">
 
 					<ul>
-					<li><a href='/about'>About</a></li>
-    				<li><a href='/contact'>Contact</a></li>
-    				<li><a href='/policy'>Privacy and Policy</a></li>
-    				<li><a href='/terms'>Help</a></li>
+					<li><a href="/page/about">About</a></li>
+    				<li><a href="/page/contact">Contact</a></li>
+    				<li><a href="/page/policy">Privacy and Policy</a></li>
+    				<li><a href="/page/terms">Help</a></li>
 					</ul>
 					<img src="../images/logo1.png" width=120 height=45 class="logoletter"/>
-					<p>Copyright © www.socialbeshies.fun 
+					<p>Copyright © www.socialbeshies.com 
 						<br>2023 All Rights Reserved.</p>
 				</div>
 				</div>

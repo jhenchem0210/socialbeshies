@@ -31,11 +31,11 @@
 
 <ul class="flex ml-6 font-bold text-gray-600 hover:text-gray-900 dark:text-gray-600 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">
     <li><a href="/page/about">About - </a></li>
-    <li><a href="page/contact">Contact - </a></li>
-    <li><a href="page/policy">Privacy and Policy -</a></li>
-    <li><a href="page/terms">Help </a></li>
+    <li><a href="/page/contact">Contact - </a></li>
+    <li><a href="/page/policy">Privacy and Policy -</a></li>
+    <li><a href="/page/terms">Help </a></li>
 </ul>
-<p>Copyright © www.socialbeshies.fun 
+<p>Copyright © www.socialbeshies.com 
     <br>2023 All Rights Reserved.</p>
 
 </div>

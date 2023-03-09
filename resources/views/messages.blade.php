@@ -211,7 +211,7 @@
 			<!-- End of right section suggestion user -->
 
 
-			<!-- Start of about homaj -->
+			<!-- Start of about Beshies -->
 			<div class="rightfixed">
 				
 				<div class="sidebarright" style="width: 280px;padding: 4px;margin-top: 20px;height: 150px;">
@@ -219,13 +219,13 @@
 				<div class="foot">
 
 					<ul>
-					<li><a href='/about'>About</a></li>
-    				<li><a href='/contact'>Contact</a></li>
-    				<li><a href='/policy'>Privacy and Policy</a></li>
-    				<li><a href='/terms'>Help</a></li>
+					<li><a href="/page/about">About </a></li>
+    				<li><a href="/page/contact">Contact </a></li>
+    				<li><a href="/page/policy">Privacy and Policy </a></li>
+    				<li><a href="/page/terms">Help </a></li>
 					</ul>
 					<img src="../images/logo1.png"  class="logoletter"/>
-					<p>Copyright © www.socialbeshies.fun 
+					<p>Copyright © www.socialbeshies.com 
 						<br>2023 All Rights Reserved.</p>
 				</div>
 				</div>

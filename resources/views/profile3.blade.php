@@ -56,10 +56,10 @@
 			<div class="foot">
 
 				<ul>
-				<li><a href='index2'>About-</a></li>
-    			<li><a href='login123'>Contact-</a></li>
-    			<li><a href='policy'>Privacy and Policy-</a></li>
-    			<li><a href='terms'>Help</a></li>
+				<li><a href="/page/about">About </a></li>
+    			<li><a href="/page/contact">Contact </a></li>
+    			<li><a href="/page/policy">Privacy and Policy </a></li>
+    			<li><a href="/page/terms">Help </a></li>
 				</ul>
 
 				<p>Copyright © www.socialbeshies.fun 2023 All Rights Reserved.</p>
